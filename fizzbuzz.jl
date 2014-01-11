@@ -1,3 +1,5 @@
+# built with julia 0.2
+
 print("? ")
 y = readline(STDIN)
 x = parseint(y)

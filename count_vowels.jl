@@ -1,3 +1,5 @@
+# built with julia 0.2
+
 print("? ")
 x = lowercase(readline(STDIN))
 p = "aeiou"
